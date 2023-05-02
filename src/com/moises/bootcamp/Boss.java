@@ -1,8 +1,8 @@
-package org.academiadecodigo.bootcamp;
+package com.moises.bootcamp;
 
-import org.academiadecodigo.bootcamp.graphics.Grid;
-import org.academiadecodigo.bootcamp.graphics.Picasso;
-import org.academiadecodigo.bootcamp.utils.FileManager;
+import com.moises.bootcamp.graphics.Grid;
+import com.moises.bootcamp.graphics.Picasso;
+import com.moises.bootcamp.utils.FileManager;
 import org.academiadecodigo.simplegraphics.keyboard.KeyboardEvent;
 import org.academiadecodigo.simplegraphics.keyboard.KeyboardHandler;
 

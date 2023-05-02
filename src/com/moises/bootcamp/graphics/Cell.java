@@ -1,4 +1,4 @@
-package org.academiadecodigo.bootcamp.graphics;
+package com.moises.bootcamp.graphics;
 
 import org.academiadecodigo.simplegraphics.graphics.Color;
 import org.academiadecodigo.simplegraphics.graphics.Rectangle;

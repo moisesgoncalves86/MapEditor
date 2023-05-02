@@ -1,4 +1,4 @@
-package org.academiadecodigo.bootcamp;
+package com.moises.bootcamp;
 
 import org.academiadecodigo.simplegraphics.keyboard.Keyboard;
 import org.academiadecodigo.simplegraphics.keyboard.KeyboardEvent;

@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ead03560-8a46-4ffd-8545-8315747dcbcf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../implementations/season-2/ep-03-concurrency/simple-chat/src/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../implementations/season-2/ep-03-concurrency/simple-chat/src/ChatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2P34a6H5A9utFZx1wgbENNgaeZy" />
   <component name="ProjectViewState">

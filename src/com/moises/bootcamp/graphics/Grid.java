@@ -1,6 +1,4 @@
-package org.academiadecodigo.bootcamp.graphics;
-
-import java.util.Arrays;
+package com.moises.bootcamp.graphics;
 
 public class Grid {
     public static final int CELL_SIZE = 15;

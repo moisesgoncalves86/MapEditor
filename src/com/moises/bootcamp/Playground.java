@@ -1,7 +1,7 @@
-package org.academiadecodigo.bootcamp;
+package com.moises.bootcamp;
 
-import org.academiadecodigo.bootcamp.graphics.Grid;
-import org.academiadecodigo.bootcamp.graphics.Picasso;
+import com.moises.bootcamp.graphics.Grid;
+import com.moises.bootcamp.graphics.Picasso;
 
 public class Playground {
     public static void main(String[] args) {
